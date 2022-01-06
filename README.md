@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suryajith R</h1>
-<h3 align="center">Talk is cheap. Show me the code</h3>
-<h3 align="center">― Linus Torvalds</h3>
 <br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=0e75b6&style=flat" alt="suryajithr" /> </p>
-
 
 <h4 align="center">- 🌱 I’m currently learning Python</h4>
 
 <h4 align="center">Connect with me: https://github.com/SuryajithR</h4>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=0e75b6&style=flat" alt="suryajithr" /> </p>
 <p align="left">
 </p>
 
