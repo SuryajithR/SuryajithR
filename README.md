@@ -4,7 +4,7 @@
  </div>
 <br>
 
-<h4 align="center">A Newbie Software Developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who wants to team up with people with similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
+<h4 align="center">A Newbie Software Developer who wants to team up with people with similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
 <br><br>
 
 - 🌱 I’m currently learning and experimenting with **Python** frameworks.
