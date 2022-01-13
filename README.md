@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning more about **Python** frameworks.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - 👨‍ Portfolio Website : will **update** soon
-- 📫 How to reach me : **suryajithr98@gmail.com**
-- 👨‍💻 All of my projects are available at : []()
+- ❤️ I love Coding and Building new things.
+- 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, Not fun🧐**
 
 <br><br>
