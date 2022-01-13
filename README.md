@@ -10,10 +10,10 @@
 
 - 🌱 I’m currently learning more about **Python** frameworks.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
-- 👨‍ Portfolio Website : will **update** soon
 - ❤️ I love Coding and Building new things.
+- 👨‍ Portfolio Website : will **update** soon
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
-- ⚡ Fun fact : **I am serious, Not fun🧐**
+- ⚡ Fun fact : **I am serious, not fun😜**
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=0e75b6&style=flat" alt="suryajithr" /> </p>
