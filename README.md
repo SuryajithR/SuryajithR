@@ -8,8 +8,8 @@
 <br><br>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-- 🌱 I’m currently learning and experimenting with **Python** frameworks.
-- :bulb: I'm interested in : **Coding, AI, Machine Learning, Data Science** etc.
+- 🌱 I’m currently learning more about **Python** frameworks.
+- :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - 👨‍ Portfolio Website : will **update** soon
 - 📫 How to reach me : **suryajithr98@gmail.com**
 - 👨‍💻 All of my projects are available at : []()
