@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning more about **Python** frameworks.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - ❤️ I love Coding and Building new things.
-- 👨‍ Portfolio Website : will **update** soon
+- 👨‍ Portfolio Website : https://suryajithr.github.io/
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, not fun😜**
 
