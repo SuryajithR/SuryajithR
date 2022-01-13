@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at : []()
 - ⚡ Fun fact : **I am serious, Not fun🧐**
 
-<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=0e75b6&style=flat" alt="suryajithr" /> </p>
 <p align="left">
 </p>
