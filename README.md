@@ -8,7 +8,7 @@
 <br><br>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-- 🌱 I’m currently learning more about **Python** frameworks.
+- 🌱 I’m currently learning more about **Python**.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - ❤️ I love Coding and Building new things.
 - 👨‍ Portfolio Website : https://suryajithr.github.io/
