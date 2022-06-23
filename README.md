@@ -6,7 +6,7 @@
  </div>
 <br>
 
-<h4 align="center">A newbie Software Developer who wants to team up with people with similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly i am working on developing my skills in <b>Python.</b>😊</h4>
+<h4 align="center">An aspiring Software Developer who wants to team up with people with similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly i am working on developing my skills in <b>Python.</b>😊</h4>
 <br><br>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
