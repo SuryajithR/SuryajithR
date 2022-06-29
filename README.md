@@ -24,7 +24,7 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/SuryajithR">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuryajithR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
