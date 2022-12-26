@@ -10,6 +10,7 @@
 <br><br>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<p align="center"><img src="animation.gif" width="35%"></p>
 
 - 🌱 I’m currently learning **ML**.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
