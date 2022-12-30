@@ -21,7 +21,7 @@
 - ⚡ Fun fact : **I am serious, not fun😜**
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&https://img.shields.io/badge/profile views-7cebf5?&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=48BCD1&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
 
 
 ## <h3 align="left">Languages and Tools:</h3>
