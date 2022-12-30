@@ -10,7 +10,7 @@
 <br><br>
 
 <!---<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
-<img align="right" src="animation.gif" width="45%"></img>
+<img align="right" src="hello.gif" width="45%"></img>
 
 ### 🧐 More About Me:
 - 🌱 I’m currently learning **ML**.
@@ -20,9 +20,8 @@
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, not fun😜**
 
-<br><br>
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&img.shields.io/badge/profile-7cebf5?&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&https://img.shields.io/badge/profile views-7cebf5?&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
 
 
 ## <h3 align="left">Languages and Tools:</h3>
