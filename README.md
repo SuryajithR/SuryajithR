@@ -17,7 +17,7 @@
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - ❤️ I love Coding and Building new things.
 - 👨‍ Portfolio Website : https://suryajithr.github.io/
-- 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
+- 👨‍💻 All of my projects are available at : [GitHub](https://suryajith.is-a.dev/)
 - ⚡ Fun fact : **I am serious, not fun😜**
 
 <br>
