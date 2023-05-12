@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning **ML**.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - ❤️ I love Coding and Building new things.
-- 👨‍ Portfolio Website : https://suryajithr.github.io/
-- 👨‍💻 All of my projects are available at : [GitHub](https://suryajith.is-a.dev/)
+- 👨‍ Portfolio Website : https://suryajith.is-a.dev/
+- 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, not fun😜**
 
 <br>
