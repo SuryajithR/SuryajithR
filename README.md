@@ -5,10 +5,14 @@
 <h1 align="center">I'm Suryajith R</h1>
  </div>
 <br>
+<!-- 
+<h4 align="center" style="text-align: justify;">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
+<br><br> -->
 
-<h4 align="center">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
-<br><br>
-
+<div style="text-align: justify;">
+<h4> An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards the future in science and technology. Currently working on developing my skills in <b>Python</b>. 😊</h4>
+</div>
+<br>
 
 
 <!---<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
