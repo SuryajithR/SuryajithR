@@ -9,6 +9,8 @@
 <h4 align="center">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
 <br><br>
 
+
+
 <!---<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
 <!-- <img align="right" src="hello.gif" width="45%"></img> -->
 
@@ -20,17 +22,18 @@
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, not fun😜**
  -->
+ 
+ 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=1F222E&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
 
 
-## <h3 align="left">Languages and Tools:</h3>
+<!-- ## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<hr>
+<hr> -->
 
-<!-- <a href="https://github.com/SuryajithR">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuryajithR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="192px"/>
-</a> -->
+
+
 
 ### 📊 Github stats
 
