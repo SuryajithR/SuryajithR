@@ -10,16 +10,16 @@
 <br><br>
 
 <!---<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
-<img align="right" src="hello.gif" width="45%"></img>
+<!-- <img align="right" src="hello.gif" width="45%"></img> -->
 
-### 🧐 More About Me:
+<!-- ### 🧐 More About Me:
 - 🌱 I’m currently learning **ML**.
 - :bulb: I'm interested in : **AI, Machine Learning, Data Science** etc.
 - ❤️ I love Coding and Building new things.
 - 👨‍ Portfolio Website : https://suryajith.is-a.dev/
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/SuryajithR)
 - ⚡ Fun fact : **I am serious, not fun😜**
-
+ -->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithr&label=Profile%20views&color=1F222E&style=for-the-badge&logo=profile&logoColor=black" alt="suryajithr" /> </p>
 
