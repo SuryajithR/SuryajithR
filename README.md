@@ -10,7 +10,7 @@
 <br><br> -->
 
 <div align="center">
-<h4> An aspiring Software Developer who loves coding and building new things and also likes to team up with people having similar mindset to come up with products that put a significant impact towards the future in science and technology.</h4>
+<h4> An aspiring software developer who has a passion for coding and building new things. I thoroughly enjoy collaborating with like-minded individuals to develop products that make a substantial impact on the future of science and technology.😊</h4>
 </div>
 <br>
 
