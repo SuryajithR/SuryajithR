@@ -1,20 +1,13 @@
-<!-- <div align="center">
+<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </h2>
 <h1 align="center">I'm Suryajith R</h1>
  </div>
-<br> -->
+<br>
 <!-- 
 <h4 align="center" style="text-align: justify;">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
 <br><br> -->
-
-<div align="center">
-<h2> Hi there, 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> &nbsp; <strong>I'm Suryajith R</strong>
- </h2>
- </div>
-<br>
  
 <div align="center">
 <h4> An aspiring software developer who has a passion for coding and building new things. I thoroughly enjoy collaborating with like-minded individuals to develop products that make a substantial impact on the future of science and technology.😊</h4>
