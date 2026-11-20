@@ -14,9 +14,9 @@
 <!-- <div align="center">
 <h4> An aspiring software developer who has a passion for coding and building new things. I thoroughly enjoy collaborating with like-minded individuals to develop products that make a substantial impact on the future of science and technology.😊</h4>
 </div>-->
-<br> 
-<img align="right" alt="Coding" width="1000" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
-<br><hr>
+<br>
+<img align="center" alt="Coding" width="1000" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<br>
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
 <!-- <img align="right" src="hello.gif" width="45%"></img> -->
 
