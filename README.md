@@ -1,18 +1,20 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+<!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  -->
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 &lt; 𝚂𝚞𝚛𝚢𝚊𝚓𝚒𝚝𝚑𝚁 /&gt;!</h2>
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </h2>
-<h1 align="center">I'm Suryajith R</h1>
+<!-- <h1 align="center">I'm Suryajith R</h1> -->
  </div>
-<br>
+<!-- <br> -->
 <!-- 
 <h4 align="center" style="text-align: justify;">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
 <br><br> -->
- 
-<div align="center">
+
+ <!-- About me -->
+<!-- <div align="center">
 <h4> An aspiring software developer who has a passion for coding and building new things. I thoroughly enjoy collaborating with like-minded individuals to develop products that make a substantial impact on the future of science and technology.😊</h4>
 </div>
-<br>
+<br> -->
 
 
 <!---<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
@@ -38,9 +40,9 @@
 
 
 
-
+<!--
 ### 📊 Github stats
-
+-->
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <!-- changed code - github-readme-stats-eight-theta.vercel.app to github-readme-stats.vercel.app -->
 <p align="center">
@@ -48,7 +50,8 @@
   <a href="https://github.com/SuryajithR"><img src="https://github-readme-stats.vercel.app/api/?username=SuryajithR&show_icons=true&count_private=true&theme=react&include_all_commits=true&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/SuryajithR"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryajithR&langs_count=8&layout=compact&token=${pat}&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+ <sub><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 </p>
 <br>
 
