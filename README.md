@@ -6,8 +6,7 @@
 <!-- <h1 align="center">I'm Suryajith R</h1> -->
  </div>
 <!-- <br> -->
-<!-- 
-<h4 align="center" style="text-align: justify;">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
+<!-- <h4 align="center" style="text-align: justify;">An aspiring Software Developer who loves coding and likes to team up with people having similar mindset to come up with products that put a significant impact towards future in science and technology. Currenly working on developing my skills in <b>Python.</b>😊</h4>
 <br><br> -->
 
  <!-- About me -->
@@ -15,7 +14,6 @@
 <h4> An aspiring software developer who has a passion for coding and building new things. I thoroughly enjoy collaborating with like-minded individuals to develop products that make a substantial impact on the future of science and technology.😊</h4>
 </div>-->
 <img align="center" alt="Coding" width="1000" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
-
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 &lt; 𝚂𝚞𝚛𝚢𝚊𝚓𝚒𝚝𝚑𝚁 /&gt;
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
  <br><br>
