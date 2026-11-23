@@ -51,7 +51,6 @@
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
  <sub><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 </p>
-<!-- <br> -->
 
 ## <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
